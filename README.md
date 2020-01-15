@@ -1,0 +1,2 @@
+# CampRima
+Camp RIMA repository
